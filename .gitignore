@@ -1,0 +1,6 @@
+*.lua
+*.meta
+*.yft
+*.ytd
+
+!version.lua
