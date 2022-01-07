@@ -1,5 +1,3 @@
-*.lua
-*.meta
-*.ytd
-*.yft
+stream
+data
 !version.lua
